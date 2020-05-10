@@ -14,6 +14,6 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifeq ($(TARGET_DEVICE),ginkgo)
+ifeq ($(TARGET_DEVICE),willow)
 
 endif
